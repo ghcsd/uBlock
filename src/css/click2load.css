@@ -27,6 +27,8 @@ body {
     flex-direction: column;
     padding: 0 2px;
     position: relative;
+    width: 100vw;
+    height: 100vh;
     }
 
 .logo {
